@@ -8,7 +8,7 @@ decode_results results;
 
 //Beacon Input Pins: 1 is Off(no beacon sensed) & 0 is Sensing
 int inPinN = 7;
-int inPinS = 6;
+int inPinS = 6;iejwgbierw
 int inPinE = 5;
 int inPinW = 4;
 
